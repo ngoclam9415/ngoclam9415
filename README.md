@@ -1,23 +1,19 @@
 Hi, I'm Lam.
 
-Day job: agentic AI at an AI startup — agent runtimes, and the unglamorous
-parts that keep them alive in production: multi-tenancy, request routing,
-security hardening, deploy pipelines. That work lives in private org repos,
-so my commit graph is a lot busier than my public profile suggests.
-
-In the open, I contribute to [lexicon](https://github.com/huylenq/lexicon) —
-most recently an ACP adapter so it talks to pi, omp, and hermes
-([#2](https://github.com/huylenq/lexicon/pull/2)), plus a canvas drag fix
-([#3](https://github.com/huylenq/lexicon/pull/3)).
+I build agentic AI systems for a living — multi-tenant agent platforms
+that have to survive real deployments: request routing, security hardening,
+release trains, edge installs. The work sits in a private org, so my commit
+graph is a lot busier than my public repos suggest.
 
 Nights and weekends go two directions:
 
+- **Coding-agent tooling** — lam-method and archflow, my own take on planning
+  and orchestration for CLI coding agents. Private while they mature; ask me
+  about them. I upstream what makes sense, most recently an ACP adapter in
+  [lexicon](https://github.com/huylenq/lexicon).
 - **Quant trading** — QuantNet's C++ course, a crypto system on the Binance
   API, calendar spreads, and more financial-statement reading than is
   probably healthy.
-- **Coding-agent tooling** — lam-method and archflow, my own take on
-  planning and orchestration for CLI agents. Private while they mature;
-  ask me about them.
 
 Before all that: Java/Spring, Jenkins, Kafka/ELK, Kubernetes. Old habits.
 
